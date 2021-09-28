@@ -1,0 +1,1 @@
+# aplicativo-frases-react-native
